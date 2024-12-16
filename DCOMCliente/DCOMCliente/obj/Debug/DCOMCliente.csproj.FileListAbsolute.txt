@@ -1,0 +1,7 @@
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\bin\Debug\DCOMCliente.exe.config
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\bin\Debug\DCOMCliente.exe
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\bin\Debug\DCOMCliente.pdb
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\obj\Debug\DCOMCliente.csproj.AssemblyReference.cache
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\obj\Debug\DCOMCliente.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\obj\Debug\DCOMCliente.exe
+C:\Users\TEMP.MSI.002\source\repos\DCOMCliente\DCOMCliente\obj\Debug\DCOMCliente.pdb
